@@ -1,6 +1,3 @@
-# public
-
-
 # Public
 Ever been to El Paso? What would you like to explore there?
 
