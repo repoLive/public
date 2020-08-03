@@ -1,5 +1,4 @@
 # Public
-Ever been to El Paso? What would you like to explore there?
 
 ![Drag Racing](https://github.com/radioUSD/public/blob/master/Screenshot_20200802-183732.png)
 
